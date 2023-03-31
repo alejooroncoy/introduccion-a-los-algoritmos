@@ -12,7 +12,7 @@ Hola, mi nombre es Alejandro Oroncoy [@alejooroncoy](https://github.com/alejooro
   Descripción 🧾: `Que calcule y muestre el menor número de monedas de 5, 2 y 1 para desglosar una cantidad K, de Soles.`
 
   Imagen 📸: 
-  ![ejercicio-1](https://i.postimg.cc/jRJyz65g/ejercicio1.jpg?dl=1)
+  ![ejercicio-1](https://i.postimg.cc/xdnkQzLM/ejercicio1.jpg)
 
 ### Ejercicio 2 👨‍💻
   
